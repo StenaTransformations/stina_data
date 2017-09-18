@@ -1,0 +1,64 @@
+location, belgien
+location, malta
+location, bulgarien
+location, nederländerna
+location, cypern
+location, polen
+location, danmark
+location, portugal
+location, estland
+location, rumänien
+location, finland
+location, slovakien
+location, frankrike
+location, slovenien
+location, grekland
+location, spanien
+location, irland
+location, storbritannien, uk
+location, england
+location, italien
+location, sverige
+location, kroatien
+location, tjeckien
+location, lettland
+location, tyskland
+location, litauen
+location, ungern
+location, luxemburg
+location, österrike
+currency, sek, kronor, kroner, svenska kronor, pix, nya mynt, gamla mynt
+currency, dkk, danska kronor, danska pengar
+currency, usd, dollar, dolares, dollars
+currency, eur, euro
+currency, nok, norska kronor
+ordinal, första, 1a, 1e
+ordinal, andra, 2a, 2e
+ordinal, tredje, 3e
+ordinal, fjärde, 4e
+ordinal, femte, 5e
+ordinal, sjätte, 6e
+ordinal, sjunde, 7e
+ordinal, åttonde, 8e
+ordinal, nionde, 9e
+ordinal, tionde, 10e
+ordinal, hundrade, 100
+color, blå, ljusblå, marinblå
+color, röd, mörkröd
+color, grön
+color, gul
+color, svart
+color, vit
+color, lila
+color, rosa
+color, magenta
+language, svenska
+language, danska
+language, norska
+language, finska
+language, tyska
+language, polska
+language, arabiska
+language, engelska
+language, irländska
+language, holländska

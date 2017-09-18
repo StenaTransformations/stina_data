@@ -1,0 +1,1051 @@
+{
+    "accessibility": [
+        {
+            "handikapp": [
+                "handikapp",
+                "handikappad",
+                "nedsatt funktion",
+                "funktionshinder"
+            ]
+        }
+    ],
+    "ancilliary services": [
+        {
+            "förboka mat": [
+                "förboka mat"
+            ]
+        },
+        {
+            "avbeställningsskydd": [
+                "avbeställningsskydd"
+            ]
+        }
+    ],
+    "animals": [
+        {
+            "djur": [
+                "djur",
+                "husdjur",
+                "resa med hund"
+            ]
+        },
+        {
+            "hund": [
+                "hund"
+            ]
+        }
+    ],
+    "boarding info": [
+        {
+            "incheckning": [
+                "incheckning",
+                "checka in",
+                "incheckningstider"
+            ]
+        },
+        {
+            "boarda": [
+                "boarda",
+                "gå ombord",
+                "gå på båten",
+                "gå på färjan"
+            ]
+        }
+    ],
+    "booking credentials": [
+        {
+            "faktura": [
+                "faktura"
+            ]
+        },
+        {
+            "kvitto": [
+                "kvitto",
+                "redovisningskvitto",
+                "kvitto med moms"
+            ]
+        },
+        {
+            "bokningsbekräftelse": [
+                "bokningsbekräftelse",
+                "bekräftelse",
+                "bekräftelsemail",
+                "mejl bekräftelse",
+                "boknings bekräftelse",
+                "betalningsbekräftelse"
+            ]
+        },
+        {
+            "biljett": [
+                "biljett"
+            ]
+        }
+    ],
+    "booking info": [
+        {
+            "registreringsnummer": [
+                "registreringsnummer",
+                "bilnummer",
+                "plåtnummer",
+                "regnummer",
+                "reg-nummer",
+                "reg.nummer"
+            ]
+        },
+        {
+            "passagerare": [
+                "passagerare"
+            ]
+        }
+    ],
+    "cabins": [
+        {
+            "hytt": [
+                "hytt",
+                "hytten",
+                "hytter"
+            ]
+        }
+    ],
+    "color": [
+        {
+            "blå": [
+                "blå",
+                "ljusblå",
+                "marinblå"
+            ]
+        },
+        {
+            "röd": [
+                "röd",
+                "mörkröd"
+            ]
+        },
+        {
+            "grön": [
+                "grön"
+            ]
+        },
+        {
+            "gul": [
+                "gul"
+            ]
+        },
+        {
+            "svart": [
+                "svart"
+            ]
+        },
+        {
+            "vit": [
+                "vit"
+            ]
+        },
+        {
+            "lila": [
+                "lila"
+            ]
+        },
+        {
+            "rosa": [
+                "rosa"
+            ]
+        },
+        {
+            "magenta": [
+                "magenta"
+            ]
+        }
+    ],
+    "currency": [
+        {
+            "sek": [
+                "sek",
+                "kronor",
+                "kroner",
+                "svenska kronor",
+                "pix",
+                "nya mynt",
+                "gamla mynt"
+            ]
+        },
+        {
+            "dkk": [
+                "dkk",
+                "danska kronor",
+                "danska pengar"
+            ]
+        },
+        {
+            "usd": [
+                "usd",
+                "dollar",
+                "dolares",
+                "dollars"
+            ]
+        },
+        {
+            "eur": [
+                "eur",
+                "euro"
+            ]
+        },
+        {
+            "nok": [
+                "nok",
+                "norska kronor"
+            ]
+        }
+    ],
+    "destinations": [
+        {
+            "the reef": [
+                "the reef",
+                "the reef över dagen",
+                "reef"
+            ]
+        },
+        {
+            "tropical islands": [
+                "tropical islands",
+                ""
+            ]
+        },
+        {
+            "skallerup seaside resort": [
+                "skallerup seaside resort",
+                "seaside resort"
+            ]
+        },
+        {
+            "djurs sommerland": [
+                "djurs sommerland"
+            ]
+        },
+        {
+            "legoland": [
+                "legoland"
+            ]
+        },
+        {
+            "skagen": [
+                "skagen",
+                "skagen över dagen"
+            ]
+        },
+        {
+            "lalandia": [
+                "lalandia",
+                "lalandia billund"
+            ]
+        }
+    ],
+    "documents": [
+        {
+            "pass": [
+                "pass",
+                "id",
+                "nationellt id",
+                "internationellt id",
+                "id-kort",
+                "passport",
+                "körkort",
+                "B-körkort",
+                "moppekörkort",
+                "moppekort"
+            ]
+        }
+    ],
+    "ferry names": [
+        {
+            "stena danica": [
+                "stena danica",
+                "danica",
+                "danmarksbåten",
+                "danmarksfärjan"
+            ]
+        },
+        {
+            "stena jutlandica": [
+                "stena jutlandica",
+                "jutlandica",
+                "juttan",
+                "danmarksbåten",
+                "danmarksfärjan"
+            ]
+        },
+        {
+            "stena spirit": [
+                "stena spirit",
+                "spirit"
+            ]
+        },
+        {
+            "stena vision": [
+                "stena vision",
+                "vision"
+            ]
+        },
+        {
+            "stena germanica": [
+                "stena germanica",
+                "germanica",
+                "tysklandsfärjan",
+                "tysklandsbåten",
+                "båten till tyskland"
+            ]
+        },
+        {
+            "stena scandinavica": [
+                "stena scandinavica",
+                "scandinavica",
+                "tysklandsfärjan",
+                "tysklandsbåten",
+                "båten till tyskland"
+            ]
+        }
+    ],
+    "general info": [
+        {
+            "väder": [
+                "väder",
+                "blåsigt",
+                "soligt"
+            ]
+        }
+    ],
+    "language": [
+        {
+            "svenska": [
+                "svenska"
+            ]
+        },
+        {
+            "danska": [
+                "danska"
+            ]
+        },
+        {
+            "norska": [
+                "norska"
+            ]
+        },
+        {
+            "finska": [
+                "finska"
+            ]
+        },
+        {
+            "tyska": [
+                "tyska"
+            ]
+        },
+        {
+            "polska": [
+                "polska"
+            ]
+        },
+        {
+            "arabiska": [
+                "arabiska"
+            ]
+        },
+        {
+            "engelska": [
+                "engelska"
+            ]
+        },
+        {
+            "irländska": [
+                "irländska"
+            ]
+        },
+        {
+            "holländska": [
+                "holländska"
+            ]
+        }
+    ],
+    "location": [
+        {
+            "belgien": [
+                "belgien"
+            ]
+        },
+        {
+            "malta": [
+                "malta"
+            ]
+        },
+        {
+            "bulgarien": [
+                "bulgarien"
+            ]
+        },
+        {
+            "nederländerna": [
+                "nederländerna"
+            ]
+        },
+        {
+            "cypern": [
+                "cypern"
+            ]
+        },
+        {
+            "polen": [
+                "polen"
+            ]
+        },
+        {
+            "danmark": [
+                "danmark"
+            ]
+        },
+        {
+            "portugal": [
+                "portugal"
+            ]
+        },
+        {
+            "estland": [
+                "estland"
+            ]
+        },
+        {
+            "rumänien": [
+                "rumänien"
+            ]
+        },
+        {
+            "finland": [
+                "finland"
+            ]
+        },
+        {
+            "slovakien": [
+                "slovakien"
+            ]
+        },
+        {
+            "frankrike": [
+                "frankrike"
+            ]
+        },
+        {
+            "slovenien": [
+                "slovenien"
+            ]
+        },
+        {
+            "grekland": [
+                "grekland"
+            ]
+        },
+        {
+            "spanien": [
+                "spanien"
+            ]
+        },
+        {
+            "irland": [
+                "irland"
+            ]
+        },
+        {
+            "storbritannien": [
+                "storbritannien",
+                "uk"
+            ]
+        },
+        {
+            "england": [
+                "england"
+            ]
+        },
+        {
+            "italien": [
+                "italien"
+            ]
+        },
+        {
+            "sverige": [
+                "sverige"
+            ]
+        },
+        {
+            "kroatien": [
+                "kroatien"
+            ]
+        },
+        {
+            "tjeckien": [
+                "tjeckien"
+            ]
+        },
+        {
+            "lettland": [
+                "lettland"
+            ]
+        },
+        {
+            "tyskland": [
+                "tyskland"
+            ]
+        },
+        {
+            "litauen": [
+                "litauen"
+            ]
+        },
+        {
+            "ungern": [
+                "ungern"
+            ]
+        },
+        {
+            "luxemburg": [
+                "luxemburg"
+            ]
+        },
+        {
+            "österrike": [
+                "österrike"
+            ]
+        }
+    ],
+    "loyalty scheme": [
+        {
+            "extra": [
+                "extra",
+                "kundklubb",
+                "extraklubb",
+                "bli medlem",
+                "medlem",
+                "extraklubben"
+            ]
+        },
+        {
+            "poäng": [
+                "poäng",
+                "mina poäng",
+                "extrapoäng",
+                "xtrapoäng",
+                "extra poäng"
+            ]
+        },
+        {
+            "guldmedlem": [
+                "guldmedlem"
+            ]
+        }
+    ],
+    "offers": [
+        {
+            "prova på polen": [
+                "prova på polen"
+            ]
+        },
+        {
+            "julbord": [
+                "julbord"
+            ]
+        },
+        {
+            "student": [
+                "student"
+            ]
+        },
+        {
+            "partybåten": [
+                "partybåten",
+                "partybåt"
+            ]
+        },
+        {
+            "nyårskryssning": [
+                "nyårskryssning"
+            ]
+        },
+        {
+            "sista minuten": [
+                "sista minuten"
+            ]
+        }
+    ],
+    "onboard food": [
+        {
+            "frukost": [
+                "frukost",
+                "frukostbuffe",
+                "frukost ombord"
+            ]
+        },
+        {
+            "buffe": [
+                "buffe"
+            ]
+        },
+        {
+            "bar": [
+                "bar"
+            ]
+        }
+    ],
+    "onboard info": [
+        {
+            "öppettider": [
+                "öppettider"
+            ]
+        }
+    ],
+    "onboard service": [
+        {
+            "mat": [
+                "mat",
+                "restauranger",
+                "restauranger",
+                "a la carte",
+                "alacart",
+                "a-la-cart",
+                "meny"
+            ]
+        },
+        {
+            "spa": [
+                "spa"
+            ]
+        },
+        {
+            "wifi": [
+                "wifi",
+                "trådlöst nätverk",
+                "internet ombord",
+                "wi-fi",
+                "wifi ombord"
+            ]
+        },
+        {
+            "plus lounge": [
+                "plus lounge",
+                "lounge",
+                "extralounge",
+                "extra lounge"
+            ]
+        },
+        {
+            "växla": [
+                "växla",
+                "exchange",
+                "växla pengar",
+                "växla till"
+            ]
+        },
+        {
+            "sen utcheckning": [
+                "sen utcheckning"
+            ]
+        },
+        {
+            "spelmaskin": [
+                "spelmaskin",
+                "spelmaskiner",
+                "spelmaskinerna",
+                "enarmade banditer"
+            ]
+        }
+    ],
+    "onboard services": [
+        {
+            "bordershop": [
+                "bordershop",
+                "taxfree",
+                "bordershop ombord",
+                "shopping ombord",
+                "shopping",
+                "border shop",
+                "shop",
+                "tax free",
+                "boarder shopping",
+                "boardershop"
+            ]
+        }
+    ],
+    "online services": [
+        {
+            "mina sidor": [
+                "mina sidor",
+                "logga in",
+                "mina bokningar"
+            ]
+        },
+        {
+            "lågpriskalender": [
+                "lågpriskalender"
+            ]
+        }
+    ],
+    "ordinal": [
+        {
+            "första": [
+                "första",
+                "1a",
+                "1e"
+            ]
+        },
+        {
+            "andra": [
+                "andra",
+                "2a",
+                "2e"
+            ]
+        },
+        {
+            "tredje": [
+                "tredje",
+                "3e"
+            ]
+        },
+        {
+            "fjärde": [
+                "fjärde",
+                "4e"
+            ]
+        },
+        {
+            "femte": [
+                "femte",
+                "5e"
+            ]
+        },
+        {
+            "sjätte": [
+                "sjätte",
+                "6e"
+            ]
+        },
+        {
+            "sjunde": [
+                "sjunde",
+                "7e"
+            ]
+        },
+        {
+            "åttonde": [
+                "åttonde",
+                "8e"
+            ]
+        },
+        {
+            "nionde": [
+                "nionde",
+                "9e"
+            ]
+        },
+        {
+            "tionde": [
+                "tionde",
+                "10e"
+            ]
+        },
+        {
+            "hundrade": [
+                "hundrade",
+                "100"
+            ]
+        }
+    ],
+    "payment method": [
+        {
+            "kort": [
+                "kort",
+                "visa",
+                "visakort",
+                "mastercard",
+                "master card",
+                "visa-kort",
+                "visa electron"
+            ]
+        },
+        {
+            "check": [
+                "check"
+            ]
+        },
+        {
+            "kontant": [
+                "kontant",
+                "cash",
+                "kontanter"
+            ]
+        },
+        {
+            "faktura": [
+                "faktura"
+            ]
+        }
+    ],
+    "port info": [
+        {
+            "kontakt": [
+                "kontakt",
+                "adress",
+                "telefonnummer",
+                "kontakta oss",
+                "öppettider"
+            ]
+        }
+    ],
+    "port services": [
+        {
+            "parkering": [
+                "parkering",
+                "ställa bilen",
+                "parkera"
+            ]
+        },
+        {
+            "hittegods": [
+                "hittegods",
+                "upphittat"
+            ]
+        },
+        {
+            "bagage": [
+                "bagage",
+                "bagageförvaring",
+                "ställa väskorna",
+                "låsa in väskor",
+                "förvara väskor",
+                "skåp",
+                "förvaring",
+                "låsa in"
+            ]
+        }
+    ],
+    "ports": [
+        {
+            "göteborg": [
+                "göteborg",
+                "gbg",
+                "götet",
+                "götlaborg änna"
+            ]
+        },
+        {
+            "kiel": [
+                "kiel"
+            ]
+        },
+        {
+            "trelleborg": [
+                "trelleborg"
+            ]
+        },
+        {
+            "sassnitz": [
+                "sassnitz"
+            ]
+        },
+        {
+            "fredrikshamn": [
+                "fredrikshamn",
+                "fredrikshavn",
+                "fredrikshaven"
+            ]
+        },
+        {
+            "karlskrona": [
+                "karlskrona"
+            ]
+        },
+        {
+            "varberg": [
+                "varberg"
+            ]
+        },
+        {
+            "göteborgMasthugget": [
+                "göteborgMasthugget",
+                "stenaterminalen",
+                "danmarksterminalen"
+            ]
+        },
+        {
+            "göteborgMajorna": [
+                "göteborgMajorna",
+                "tysklandsterminalen"
+            ]
+        }
+    ],
+    "route info": [
+        {
+            "tidtabell": [
+                "tidtabell",
+                "avgångar"
+            ]
+        },
+        {
+            "åldersgräns": [
+                "åldersgräns"
+            ]
+        }
+    ],
+    "routes": [
+        {
+            "kigo": [
+                "kigo",
+                "kiel göteborg",
+                "kiel-göteborg"
+            ]
+        },
+        {
+            "goki": [
+                "goki",
+                "göteborg kiel",
+                "göteborg-kiel"
+            ]
+        },
+        {
+            "rotr": [
+                "rotr",
+                "rostock trelleborg",
+                "rostock-trelleborg"
+            ]
+        },
+        {
+            "trro": [
+                "trro",
+                "trelleborg rostock",
+                "trelleborg-rostock"
+            ]
+        },
+        {
+            "gofr": [
+                "gofr",
+                "göteborg-fredrikshamn"
+            ]
+        },
+        {
+            "frgo": [
+                "frgo",
+                "fredrikshamn-göteborg"
+            ]
+        }
+    ],
+    "ticket class": [
+        {
+            "vuxen": [
+                "vuxen"
+            ]
+        },
+        {
+            "barn": [
+                "barn"
+            ]
+        },
+        {
+            "student": [
+                "student"
+            ]
+        },
+        {
+            "pensionär": [
+                "pensionär"
+            ]
+        }
+    ],
+    "ticket homeward": [
+        {
+            "hemresa": [
+                "hemresa",
+                "returressa",
+                "hemresa",
+                "returresa"
+            ]
+        }
+    ],
+    "ticket info": [
+        {
+            "avbokning": [
+                "avbokning",
+                "avboka",
+                "avbeställning",
+                "avboka resa"
+            ]
+        },
+        {
+            "reklamation": [
+                "reklamation"
+            ]
+        },
+        {
+            "ombokning": [
+                "ombokning"
+            ]
+        },
+        {
+            "pris": [
+                "pris",
+                "priser"
+            ]
+        },
+        {
+            "betalning": [
+                "betalning",
+                "betalningsalternativ"
+            ]
+        }
+    ],
+    "ticket multileg": [
+        {
+            "tor": [
+                "tor",
+                "turochretur",
+                "tur och retur",
+                "dit och tillbaks"
+            ]
+        }
+    ],
+    "ticket outward": [
+        {
+            "utresa": [
+                "utresa",
+                "enkelresa",
+                "ditresa",
+                "tur"
+            ]
+        }
+    ],
+    "tickets": [
+        {
+            "biljett": [
+                "biljett",
+                "flexi",
+                "economy",
+                "ekonomibiljett",
+                "flexibiljett",
+                "kombibiljett",
+                "premium"
+            ]
+        },
+        {
+            "presentkort": [
+                "presentkort"
+            ]
+        }
+    ],
+    "vehicle info": [
+        {
+            "cykel": [
+                "cykel"
+            ]
+        },
+        {
+            "bil": [
+                "bil",
+                "personbil"
+            ]
+        }
+    ]
+}

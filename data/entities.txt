@@ -1,0 +1,95 @@
+onboard services, bordershop, taxfree, bordershop ombord, shopping ombord, shopping, border shop, shop, tax free, boarder shopping, boardershop
+onboard info, öppettider
+animals, djur, husdjur, resa med hund
+animals, hund
+destinations, the reef, the reef över dagen, reef
+destinations, tropical islands,
+destinations, skallerup seaside resort, seaside resort
+destinations, djurs sommerland
+destinations, legoland
+destinations, skagen, skagen över dagen
+destinations, lalandia, lalandia billund
+ports, göteborg, gbg, götet, götlaborg änna
+ports, kiel
+ports, trelleborg
+ports, sassnitz
+ports, fredrikshamn, fredrikshavn, fredrikshaven
+ports, karlskrona
+ports, varberg
+routes, kigo, kiel göteborg, kiel-göteborg
+routes, goki, göteborg kiel, göteborg-kiel
+routes, rotr, rostock trelleborg, rostock-trelleborg
+routes, trro, trelleborg rostock, trelleborg-rostock
+routes, gofr, göteborg-fredrikshamn
+routes, frgo, fredrikshamn-göteborg
+cabins, hytt, hytten, hytter
+documents, pass, id, nationellt id, internationellt id, id-kort, passport, körkort, B-körkort, moppekörkort, moppekort
+boarding info, incheckning, checka in, incheckningstider
+boarding info, boarda, gå ombord, gå på båten, gå på färjan
+port services, parkering, ställa bilen, parkera
+port services, hittegods, upphittat
+port services, bagage, bagageförvaring, ställa väskorna, låsa in väskor, förvara väskor, skåp, förvaring, låsa in
+online services, mina sidor, logga in, mina bokningar
+online services, lågpriskalender
+loyalty scheme, extra, kundklubb, extraklubb, bli medlem, medlem, extraklubben
+loyalty scheme, poäng, mina poäng, extrapoäng, xtrapoäng, extra poäng
+loyalty scheme, guldmedlem
+ancilliary services, förboka mat
+ancilliary services, avbeställningsskydd
+vehicle info, cykel
+vehicle info, bil, personbil
+ticket info, avbokning, avboka, avbeställning, avboka resa
+ticket info, reklamation
+ticket info, ombokning
+ticket info, pris, priser
+ticket info, betalning, betalningsalternativ
+ticket class, vuxen
+ticket class, barn
+ticket class, student
+ticket class, pensionär
+ticket multileg, tor, turochretur, tur och retur, dit och tillbaks
+ticket outward, utresa, enkelresa, ditresa, tur
+ticket homeward, hemresa, returressa, hemresa, returresa
+accessibility, handikapp, handikappad, nedsatt funktion, funktionshinder
+general info, väder, blåsigt, soligt
+tickets, biljett, flexi, economy, ekonomibiljett, flexibiljett, kombibiljett, premium
+tickets, presentkort
+ports, göteborgMasthugget, stenaterminalen, danmarksterminalen
+ports, göteborgMajorna, tysklandsterminalen
+onboard service, mat, restauranger, restauranger, a la carte, alacart, a-la-cart, meny
+onboard service, spa
+onboard service, wifi, trådlöst nätverk, internet ombord, wi-fi, wifi ombord
+onboard service, plus lounge, lounge, extralounge, extra lounge
+onboard service, växla, exchange, växla pengar, växla till
+onboard service, sen utcheckning
+onboard service, spelmaskin, spelmaskiner, spelmaskinerna, enarmade banditer
+onboard food, frukost, frukostbuffe, frukost ombord
+onboard food, buffe
+onboard food, bar
+port info, kontakt, adress, telefonnummer, kontakta oss, öppettider
+offers, prova på polen
+offers, julbord
+offers, student
+offers, partybåten, partybåt
+offers, nyårskryssning
+offers, sista minuten
+route info, tidtabell, avgångar
+route info, åldersgräns
+booking credentials, faktura
+booking credentials, kvitto, redovisningskvitto, kvitto med moms
+booking credentials, bokningsbekräftelse, bekräftelse, bekräftelsemail, mejl bekräftelse, boknings bekräftelse, betalningsbekräftelse
+booking credentials, biljett
+booking info, registreringsnummer, bilnummer, plåtnummer, regnummer, reg-nummer, reg.nummer
+booking info, passagerare
+ferry names, stena danica, danica, danmarksbåten, danmarksfärjan
+ferry names, stena jutlandica, jutlandica, juttan, danmarksbåten, danmarksfärjan
+ferry names, stena spirit, spirit
+ferry names, stena vision, vision
+ferry names, stena germanica, germanica, tysklandsfärjan, tysklandsbåten, båten till tyskland
+ferry names, stena scandinavica, scandinavica, tysklandsfärjan, tysklandsbåten, båten till tyskland
+payment method, kort, visa, visakort, mastercard, master card, visa-kort, visa electron
+payment method, check
+payment method, kontant, cash, kontanter
+payment method, faktura
+
+
