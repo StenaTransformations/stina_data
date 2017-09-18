@@ -21,7 +21,10 @@ def write_to_file(filename, data):
         json.dump(data, f, ensure_ascii=False, indent=4, sort_keys=True)
 
 
-for file in list(filter(lambda x: x[0] != '.', os.listdir('data'))):
+valid = lambda x: x[0] != '.' and x.split('.')[1] == 'txt'
+
+
+for file in list(filter(valid, os.listdir('data'))):
     try:
         print('\nfound file {} in data.'.format(file))
         data = parse_corpus(file)
