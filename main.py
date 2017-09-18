@@ -7,12 +7,12 @@ def parse_corpus(filename, corpus={}):
             s = line.split(',')
             if len(s) < 2:
                 continue
-            category, entity, gazette = s[0], s[1].strip(), ([w.strip() for w in s[2:]] if len(s)>2 else [])
+            category, entity, gazette = s[0], s[1].strip(), ([w.strip() for w in s[2:]] if len(s) > 2 else [])
 
             if category in corpus:
-                corpus[category] = corpus[category] + [{entity:[entity]+gazette}]
+                corpus[category] = corpus[category] + [{entity:[entity] + gazette}]
             else:
-                corpus[category] = [{entity:[entity]+gazette}]
+                corpus[category] = [{entity:[entity] + gazette}]
         return corpus
 
 
