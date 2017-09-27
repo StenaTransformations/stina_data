@@ -59,6 +59,14 @@
             ]
         },
         {
+            "bokningsnummer": [
+                "bokningsnummer",
+                "reservationsnummer",
+                "referensnummer",
+                "bokningsid"
+            ]
+        },
+        {
             "kvitto": [
                 "kvitto",
                 "redovisningskvitto",
@@ -77,7 +85,9 @@
         },
         {
             "biljett": [
-                "biljett"
+                "biljett",
+                "biljetten",
+                "färdbevis"
             ]
         }
     ],
@@ -103,7 +113,8 @@
             "hytt": [
                 "hytt",
                 "hytten",
-                "hytter"
+                "hytter",
+                "hyttnummer"
             ]
         }
     ],
@@ -514,6 +525,16 @@
             ]
         }
     ],
+    "loyalty credential": [
+        {
+            "medlemsnummer": [
+                "medlemsnummer",
+                "medlemsid",
+                "extranummer",
+                "xtranummer"
+            ]
+        }
+    ],
     "loyalty scheme": [
         {
             "extra": [
@@ -522,7 +543,8 @@
                 "extraklubb",
                 "bli medlem",
                 "medlem",
-                "extraklubben"
+                "extraklubben",
+                "xtraklubb"
             ]
         },
         {
@@ -759,7 +781,6 @@
         {
             "kort": [
                 "kort",
-                "visa",
                 "visakort",
                 "mastercard",
                 "master card",
