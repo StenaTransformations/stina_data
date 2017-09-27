@@ -22,7 +22,7 @@ routes, rotr, rostock trelleborg, rostock-trelleborg
 routes, trro, trelleborg rostock, trelleborg-rostock
 routes, gofr, göteborg-fredrikshamn
 routes, frgo, fredrikshamn-göteborg
-cabins, hytt, hytten, hytter
+cabins, hytt, hytten, hytter, hyttnummer
 documents, pass, id, nationellt id, internationellt id, id-kort, passport, körkort, B-körkort, moppekörkort, moppekort
 boarding info, incheckning, checka in, incheckningstider
 boarding info, boarda, gå ombord, gå på båten, gå på färjan
@@ -31,9 +31,10 @@ port services, hittegods, upphittat
 port services, bagage, bagageförvaring, ställa väskorna, låsa in väskor, förvara väskor, skåp, förvaring, låsa in
 online services, mina sidor, logga in, mina bokningar
 online services, lågpriskalender
-loyalty scheme, extra, kundklubb, extraklubb, bli medlem, medlem, extraklubben
+loyalty scheme, extra, kundklubb, extraklubb, bli medlem, medlem, extraklubben, xtraklubb
 loyalty scheme, poäng, mina poäng, extrapoäng, xtrapoäng, extra poäng
 loyalty scheme, guldmedlem
+loyalty credential, medlemsnummer, medlemsid, extranummer, xtranummer
 ancilliary services, förboka mat
 ancilliary services, avbeställningsskydd
 vehicle info, cykel
@@ -76,9 +77,10 @@ offers, sista minuten
 route info, tidtabell, avgångar
 route info, åldersgräns
 booking credentials, faktura
+booking credentials, bokningsnummer, reservationsnummer, referensnummer, bokningsid
 booking credentials, kvitto, redovisningskvitto, kvitto med moms
 booking credentials, bokningsbekräftelse, bekräftelse, bekräftelsemail, mejl bekräftelse, boknings bekräftelse, betalningsbekräftelse
-booking credentials, biljett
+booking credentials, biljett, biljetten, färdbevis
 booking info, registreringsnummer, bilnummer, plåtnummer, regnummer, reg-nummer, reg.nummer
 booking info, passagerare
 ferry names, stena danica, danica, danmarksbåten, danmarksfärjan
@@ -87,9 +89,8 @@ ferry names, stena spirit, spirit
 ferry names, stena vision, vision
 ferry names, stena germanica, germanica, tysklandsfärjan, tysklandsbåten, båten till tyskland
 ferry names, stena scandinavica, scandinavica, tysklandsfärjan, tysklandsbåten, båten till tyskland
-payment method, kort, visa, visakort, mastercard, master card, visa-kort, visa electron
+payment method, kort, visakort, mastercard, master card, visa-kort, visa electron
 payment method, check
 payment method, kontant, cash, kontanter
 payment method, faktura
-
 
