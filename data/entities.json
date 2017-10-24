@@ -557,48 +557,6 @@
             ]
         }
     ],
-    "routes": [
-        {
-            "kigo": [
-                "kigo",
-                "kiel göteborg",
-                "kiel-göteborg"
-            ]
-        },
-        {
-            "goki": [
-                "goki",
-                "göteborg kiel",
-                "göteborg-kiel"
-            ]
-        },
-        {
-            "rotr": [
-                "rotr",
-                "rostock trelleborg",
-                "rostock-trelleborg"
-            ]
-        },
-        {
-            "trro": [
-                "trro",
-                "trelleborg rostock",
-                "trelleborg-rostock"
-            ]
-        },
-        {
-            "gofr": [
-                "gofr",
-                "göteborg-fredrikshamn"
-            ]
-        },
-        {
-            "frgo": [
-                "frgo",
-                "fredrikshamn-göteborg"
-            ]
-        }
-    ],
     "ticket class": [
         {
             "vuxen": [

@@ -17,12 +17,6 @@ ports, sassnitz
 ports, fredrikshamn, fredrikshavn, fredrikshaven
 ports, karlskrona
 ports, varberg
-routes, kigo, kiel göteborg, kiel-göteborg
-routes, goki, göteborg kiel, göteborg-kiel
-routes, rotr, rostock trelleborg, rostock-trelleborg
-routes, trro, trelleborg rostock, trelleborg-rostock
-routes, gofr, göteborg-fredrikshamn
-routes, frgo, fredrikshamn-göteborg
 cabins, hytt, hytten, hytter, hyttnummer
 documents, pass, id, nationellt id, internationellt id, id-kort, passport, körkort, B-körkort, moppekörkort, moppekort
 boarding info, incheckning, checka in, incheckningstider
