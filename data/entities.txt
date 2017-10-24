@@ -12,6 +12,7 @@ destinations, lalandia, lalandia billund
 ports, göteborg, gbg, götet, götlaborg änna
 ports, kiel
 ports, trelleborg
+ports, rostock
 ports, sassnitz
 ports, fredrikshamn, fredrikshavn, fredrikshaven
 ports, karlskrona
