@@ -15,8 +15,7 @@ location, slovenien
 location, grekland
 location, spanien
 location, irland
-location, storbritannien, uk
-location, england
+location, storbritannien, uk, england
 location, italien
 location, sverige
 location, kroatien
