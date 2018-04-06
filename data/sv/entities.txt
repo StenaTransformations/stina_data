@@ -3,7 +3,7 @@ onboard info, öppettider
 animals, djur, husdjur, resa med hund
 animals, hund
 destinations, the reef, the reef över dagen, reef
-destinations, tropical islands,
+destinations, tropical islands
 destinations, skallerup seaside resort, seaside resort
 destinations, djurs sommerland
 destinations, legoland
