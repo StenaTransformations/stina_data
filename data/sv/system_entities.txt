@@ -1,7 +1,7 @@
 location, belgien
 location, malta
 location, bulgarien
-location, nederländerna
+location, nederländerna, holland
 location, cypern
 location, polen
 location, danmark
