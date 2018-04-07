@@ -35,6 +35,7 @@ def convert_text_files():
     for lang_dir in os.listdir(DATA_DIR):
         dir_path = os.path.join(DATA_DIR, lang_dir)
         print(f'Checking {dir_path}')
+        all_words = set()
 
         for fname in os.listdir(dir_path):
             if fname.startswith('.'):
@@ -54,10 +55,20 @@ def convert_text_files():
                 new_file = f'{base_path}.json'
                 print(f'Creating new file {new_file}')
                 write_to_file(new_file, data)
+                # Extract all words
+                for lst in data.values():
+                    for dct in lst:
+                        for key, val in dct.items():
+                            all_words.add(key.lower())
+                            all_words.update(i.lower() for i in val)
                 print()
             except Exception as e:
                 print('Error parsing file {}: {}'.format(file_path, e))
                 continue
+        print('Saving list of all domain words')
+        all_words_path = os.path.join(dir_path, 'all_words.json')
+        write_to_file(all_words_path, sorted(all_words))
+        print()
 
 
 if __name__ == '__main__':
