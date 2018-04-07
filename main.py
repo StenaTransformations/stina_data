@@ -36,6 +36,7 @@ def convert_text_files():
         dir_path = os.path.join(DATA_DIR, lang_dir)
         print(f'Checking {dir_path}')
         all_words = set()
+        all_syns = {}
 
         for fname in os.listdir(dir_path):
             if fname.startswith('.'):
@@ -58,9 +59,16 @@ def convert_text_files():
                 # Extract all words
                 for lst in data.values():
                     for dct in lst:
-                        for key, val in dct.items():
-                            all_words.add(key.lower())
-                            all_words.update(i.lower() for i in val)
+                        for key, vals in dct.items():
+                            key = key.lower()
+                            vals = [val.lower().strip() for val in vals]
+                            vals = [val for val in vals if val and val != key]
+                            all_words.add(key)
+                            all_words.update(vals)
+
+                            for val in vals:
+                                all_syns[val] = key
+
                 print()
             except Exception as e:
                 print('Error parsing file {}: {}'.format(file_path, e))
@@ -68,6 +76,11 @@ def convert_text_files():
         print('Saving list of all domain words')
         all_words_path = os.path.join(dir_path, 'all_words.json')
         write_to_file(all_words_path, sorted(all_words))
+
+        print('Saving synonym mapping of all domain words')
+        all_syns_path = os.path.join(dir_path, 'all_synonyms.json')
+        write_to_file(all_syns_path, all_syns)
+
         print()
 
 
