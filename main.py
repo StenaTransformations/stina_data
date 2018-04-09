@@ -74,11 +74,11 @@ def convert_text_files():
                 print('Error parsing file {}: {}'.format(file_path, e))
                 continue
         print('Saving list of all domain words')
-        all_words_path = os.path.join(dir_path, 'all_words.json')
+        all_words_path = os.path.join(dir_path, 'domain_words.json')
         write_to_file(all_words_path, sorted(all_words))
 
         print('Saving synonym mapping of all domain words')
-        all_syns_path = os.path.join(dir_path, 'all_synonyms.json')
+        all_syns_path = os.path.join(dir_path, 'domain_synonyms.json')
         write_to_file(all_syns_path, all_syns)
 
         print()
