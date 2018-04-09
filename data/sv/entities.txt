@@ -60,16 +60,33 @@ port info, kontakt, adress, telefonnummer, kontakta oss, öppettider
 port services, bagage, bagageförvaring, ställa väskorna, låsa in väskor, förvara väskor, skåp, förvaring, låsa in
 port services, hittegods, upphittat
 port services, parkering, ställa bilen, parkera
+ports, belfast
+ports, cairnryan
+ports, cherbourg
+ports, dublin port, dublin
+ports, fishguard
 ports, fredrikshamn, fredrikshavn, fredrikshaven
+ports, gdynia
+ports, grenå, grenaa
 ports, göteborg, gbg, götet, götlaborg änna
 ports, göteborgMajorna, tysklandsterminalen
 ports, göteborgMasthugget, stenaterminalen, danmarksterminalen
+ports, harwich
+ports, hoek van holland, hoek
+ports, holyhead
 ports, karlskrona
 ports, kiel
+ports, liepaja
+ports, liverpool
+ports, nynäshamn
+ports, oslo
+ports, rosslare
 ports, rostock
 ports, sassnitz
+ports, travemünde
 ports, trelleborg
 ports, varberg
+ports, ventspils
 route info, tidtabell, avgångar
 route info, åldersgräns
 ticket class, barn

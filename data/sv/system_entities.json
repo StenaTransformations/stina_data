@@ -1,29 +1,10 @@
 {
     "currency": [
         {
-            "sek": [
-                "sek",
-                "kronor",
-                "kroner",
-                "svenska kronor",
-                "pix",
-                "nya mynt",
-                "gamla mynt"
-            ]
-        },
-        {
             "dkk": [
                 "dkk",
                 "danska kronor",
                 "danska pengar"
-            ]
-        },
-        {
-            "usd": [
-                "usd",
-                "dollar",
-                "dolares",
-                "dollars"
             ]
         },
         {
@@ -37,12 +18,31 @@
                 "nok",
                 "norska kronor"
             ]
+        },
+        {
+            "sek": [
+                "sek",
+                "kronor",
+                "kroner",
+                "svenska kronor",
+                "pix",
+                "nya mynt",
+                "gamla mynt"
+            ]
+        },
+        {
+            "usd": [
+                "usd",
+                "dollar",
+                "dolares",
+                "dollars"
+            ]
         }
     ],
     "language": [
         {
-            "svenska": [
-                "svenska"
+            "arabiska": [
+                "arabiska"
             ]
         },
         {
@@ -51,8 +51,8 @@
             ]
         },
         {
-            "norska": [
-                "norska"
+            "engelska": [
+                "engelska"
             ]
         },
         {
@@ -61,23 +61,8 @@
             ]
         },
         {
-            "tyska": [
-                "tyska"
-            ]
-        },
-        {
-            "polska": [
-                "polska"
-            ]
-        },
-        {
-            "arabiska": [
-                "arabiska"
-            ]
-        },
-        {
-            "engelska": [
-                "engelska"
+            "holländska": [
+                "holländska"
             ]
         },
         {
@@ -86,8 +71,23 @@
             ]
         },
         {
-            "holländska": [
-                "holländska"
+            "norska": [
+                "norska"
+            ]
+        },
+        {
+            "polska": [
+                "polska"
+            ]
+        },
+        {
+            "svenska": [
+                "svenska"
+            ]
+        },
+        {
+            "tyska": [
+                "tyska"
             ]
         }
     ],
@@ -98,13 +98,73 @@
             ]
         },
         {
-            "malta": [
-                "malta"
+            "bulgarien": [
+                "bulgarien"
             ]
         },
         {
-            "bulgarien": [
-                "bulgarien"
+            "cypern": [
+                "cypern"
+            ]
+        },
+        {
+            "danmark": [
+                "danmark"
+            ]
+        },
+        {
+            "estland": [
+                "estland"
+            ]
+        },
+        {
+            "finland": [
+                "finland"
+            ]
+        },
+        {
+            "frankrike": [
+                "frankrike"
+            ]
+        },
+        {
+            "grekland": [
+                "grekland"
+            ]
+        },
+        {
+            "irland": [
+                "irland"
+            ]
+        },
+        {
+            "italien": [
+                "italien"
+            ]
+        },
+        {
+            "kroatien": [
+                "kroatien"
+            ]
+        },
+        {
+            "lettland": [
+                "lettland"
+            ]
+        },
+        {
+            "litauen": [
+                "litauen"
+            ]
+        },
+        {
+            "luxemburg": [
+                "luxemburg"
+            ]
+        },
+        {
+            "malta": [
+                "malta"
             ]
         },
         {
@@ -114,18 +174,8 @@
             ]
         },
         {
-            "cypern": [
-                "cypern"
-            ]
-        },
-        {
             "polen": [
                 "polen"
-            ]
-        },
-        {
-            "danmark": [
-                "danmark"
             ]
         },
         {
@@ -134,18 +184,8 @@
             ]
         },
         {
-            "estland": [
-                "estland"
-            ]
-        },
-        {
             "rumänien": [
                 "rumänien"
-            ]
-        },
-        {
-            "finland": [
-                "finland"
             ]
         },
         {
@@ -154,28 +194,13 @@
             ]
         },
         {
-            "frankrike": [
-                "frankrike"
-            ]
-        },
-        {
             "slovenien": [
                 "slovenien"
             ]
         },
         {
-            "grekland": [
-                "grekland"
-            ]
-        },
-        {
             "spanien": [
                 "spanien"
-            ]
-        },
-        {
-            "irland": [
-                "irland"
             ]
         },
         {
@@ -186,18 +211,8 @@
             ]
         },
         {
-            "italien": [
-                "italien"
-            ]
-        },
-        {
             "sverige": [
                 "sverige"
-            ]
-        },
-        {
-            "kroatien": [
-                "kroatien"
             ]
         },
         {
@@ -206,28 +221,13 @@
             ]
         },
         {
-            "lettland": [
-                "lettland"
-            ]
-        },
-        {
             "tyskland": [
                 "tyskland"
             ]
         },
         {
-            "litauen": [
-                "litauen"
-            ]
-        },
-        {
             "ungern": [
                 "ungern"
-            ]
-        },
-        {
-            "luxemburg": [
-                "luxemburg"
             ]
         },
         {
