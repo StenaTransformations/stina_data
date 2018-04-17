@@ -1,0 +1,109 @@
+accessibility, disability, disabled, disablement, handicap, impairment
+ancilliary services, cancellation insurance
+ancilliary services, pre-book food
+animals, animals, pet, travel with dog
+animals, dog
+boarding info, board, board the ship, board the boat, board the ferry, go onboard
+boarding info, check-in, check in, check-in time
+booking credentials, ticket, travel token
+booking credentials, booking confirmation, confirmation, confirmation mail, payment receipt, payment confirmation, payment
+acknowledgment, booking acknowledgment, receipt, quittance
+booking credentials, booking number, reservation number, reference code, booking id, booking code
+booking credentials, invoice
+booking credentials, accounting receipt
+booking info, passenger, traveler
+booking info, registration number, registration plate, license number, license plate
+cabins, cabin, cabin number
+destinations, djurs sommerland, djur themepark
+destinations, lalandia, lalandia billund
+destinations, legoland
+destinations, skagen
+destinations, skallerup seaside resort, seaside resort
+destinations, the reef, reef
+destinations, tropical islands
+documents, passport, id, national id, national id card, id card, international id card, driver's licence,
+driver's license, driving licence, driving license körkort
+ferry names, stena danica, danica, denmark boat, denmark ferry
+ferry names, stena germanica, germanica, tysklandsfärjan, tysklandsbåten, båten till tyskland
+ferry names, stena jutlandica, jutlandica, juttan, danmarksbåten, danmarksfärjan
+ferry names, stena scandinavica, scandinavica, tysklandsfärjan, tysklandsbåten, båten till tyskland
+ferry names, stena spirit, spirit
+ferry names, stena vision, vision
+general info, weather, windy, sunny, storm
+loyalty credential, medlemsnummer, medlemsid, extranummer, xtranummer
+loyalty scheme, extra, kundklubb, extraklubb, bli medlem, medlem, extraklubben, xtraklubb
+loyalty scheme, gold level
+loyalty scheme, poäng, mina poäng, extrapoäng, xtrapoäng, extra poäng
+offers, julbord
+offers, nyårskryssning
+offers, partybåten, partybåt
+offers, prova på polen
+offers, sista minuten
+offers, student
+onboard food, bar
+onboard food, buffe
+onboard food, frukost, frukostbuffe, frukost ombord
+onboard info, öppettider
+onboard service, mat, restauranger, restauranger, a la carte, alacart, a-la-cart, meny
+onboard service, plus lounge, lounge, extralounge, extra lounge
+onboard service, sen utcheckning
+onboard service, spa
+onboard service, spelmaskin, spelmaskiner, spelmaskinerna, enarmade banditer
+onboard service, växla, exchange, växla pengar, växla till
+onboard service, wifi, trådlöst nätverk, internet ombord, wi-fi, wifi ombord
+onboard services, bordershop, taxfree, bordershop ombord, shopping ombord, shopping, border shop, shop, tax free, boarder shopping, boardershop
+online services, lågpriskalender
+online services, mina sidor, logga in, mina bokningar
+payment method, check
+payment method, faktura
+payment method, kontant, cash, kontanter
+payment method, kort, visakort, mastercard, master card, visa-kort, visa electron
+port info, kontakt, adress, telefonnummer, kontakta oss, öppettider
+port services, bagage, bagageförvaring, ställa väskorna, låsa in väskor, förvara väskor, skåp, förvaring, låsa in
+port services, hittegods, upphittat
+port services, parkering, ställa bilen, parkera
+ports, belfast
+ports, cairnryan
+ports, cherbourg
+ports, dublin port, dublin
+ports, fishguard
+ports, fredrikshamn, fredrikshavn, fredrikshaven
+ports, gdynia
+ports, grenå, grenaa
+ports, göteborg, gbg, götet, götlaborg änna
+ports, göteborgMajorna, tysklandsterminalen
+ports, göteborgMasthugget, stenaterminalen, danmarksterminalen
+ports, harwich
+ports, hoek van holland, hoek
+ports, holyhead
+ports, karlskrona
+ports, kiel
+ports, liepaja
+ports, liverpool
+ports, nynäshamn
+ports, oslo
+ports, rosslare
+ports, rostock
+ports, sassnitz
+ports, travemünde
+ports, trelleborg
+ports, varberg
+ports, ventspils
+route info, tidtabell, avgångar
+route info, åldersgräns
+ticket class, barn
+ticket class, pensionär
+ticket class, student
+ticket class, vuxen
+ticket homeward, hemresa, returressa, hemresa, returresa
+ticket info, avbokning, avboka, avbeställning, avboka resa
+ticket info, betalning, betalningsalternativ
+ticket info, ombokning
+ticket info, pris, priser
+ticket info, reklamation
+ticket multileg, tor, turochretur, tur och retur, dit och tillbaks
+ticket outward, utresa, enkelresa, ditresa, tur
+tickets, biljett, flexi, economy, ekonomibiljett, flexibiljett, kombibiljett, premium
+tickets, presentkort
+vehicle info, bil, personbil
+vehicle info, cykel
