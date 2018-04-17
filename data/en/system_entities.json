@@ -1,10 +1,19 @@
 {
     "currency": [
         {
+            "pound": [
+                "pound",
+                "pounds",
+                "gbp",
+                "quid"
+            ]
+        },
+        {
             "dkk": [
                 "dkk",
-                "danska kronor",
-                "danska pengar"
+                "danish crowns",
+                "danish currency",
+                "danska kronor"
             ]
         },
         {
@@ -16,105 +25,104 @@
         {
             "nok": [
                 "nok",
+                "norwegian crowns",
+                "norwegian currency",
                 "norska kronor"
             ]
         },
         {
             "sek": [
                 "sek",
-                "kronor",
-                "kroner",
-                "svenska kronor",
-                "pix",
-                "nya mynt",
-                "gamla mynt"
+                "swedish crowns",
+                "swedish currency",
+                "svenska kronor"
             ]
         },
         {
             "usd": [
                 "usd",
                 "dollar",
-                "dolares",
                 "dollars"
             ]
         }
     ],
     "language": [
         {
-            "arabiska": [
-                "arabiska"
+            "arabic": [
+                "arabic"
             ]
         },
         {
-            "danska": [
-                "danska"
+            "danish": [
+                "danish"
             ]
         },
         {
-            "engelska": [
-                "engelska"
+            "english": [
+                "english"
             ]
         },
         {
-            "finska": [
-                "finska"
+            "finnish": [
+                "finnish"
             ]
         },
         {
-            "holländska": [
-                "holländska"
+            "dutch": [
+                "dutch"
             ]
         },
         {
-            "irländska": [
-                "irländska"
+            "irish": [
+                "irish"
             ]
         },
         {
-            "norska": [
-                "norska"
+            "norwegian": [
+                "norwegian"
             ]
         },
         {
-            "polska": [
-                "polska"
+            "polish": [
+                "polish"
             ]
         },
         {
-            "svenska": [
-                "svenska"
+            "swedish": [
+                "swedish"
             ]
         },
         {
-            "tyska": [
-                "tyska"
+            "german": [
+                "german"
             ]
         }
     ],
     "location": [
         {
-            "belgien": [
-                "belgien"
+            "belgium": [
+                "belgium"
             ]
         },
         {
-            "bulgarien": [
-                "bulgarien"
+            "bulgaria": [
+                "bulgaria"
             ]
         },
         {
-            "cypern": [
-                "cypern"
+            "cyprus": [
+                "cyprus"
             ]
         },
         {
-            "danmark": [
+            "denmark": [
+                "denmark",
                 "danmark"
             ]
         },
         {
-            "estland": [
-                "estland"
+            "estonia": [
+                "estonia"
             ]
         },
         {
@@ -123,38 +131,38 @@
             ]
         },
         {
-            "frankrike": [
-                "frankrike"
+            "france": [
+                "france"
             ]
         },
         {
-            "grekland": [
-                "grekland"
+            "greece": [
+                "greece"
             ]
         },
         {
-            "irland": [
-                "irland"
+            "ireland": [
+                "ireland"
             ]
         },
         {
-            "italien": [
-                "italien"
+            "italy": [
+                "italy"
             ]
         },
         {
-            "kroatien": [
-                "kroatien"
+            "croatia": [
+                "croatia"
             ]
         },
         {
-            "lettland": [
-                "lettland"
+            "latvia": [
+                "latvia"
             ]
         },
         {
-            "litauen": [
-                "litauen"
+            "lithuania": [
+                "lithuania"
             ]
         },
         {
@@ -168,14 +176,14 @@
             ]
         },
         {
-            "nederländerna": [
-                "nederländerna",
+            "netherlands": [
+                "netherlands",
                 "holland"
             ]
         },
         {
-            "polen": [
-                "polen"
+            "poland": [
+                "poland"
             ]
         },
         {
@@ -184,55 +192,57 @@
             ]
         },
         {
-            "rumänien": [
-                "rumänien"
+            "romania": [
+                "romania"
             ]
         },
         {
-            "slovakien": [
-                "slovakien"
+            "slovakia": [
+                "slovakia"
             ]
         },
         {
-            "slovenien": [
-                "slovenien"
+            "slovenia": [
+                "slovenia"
             ]
         },
         {
-            "spanien": [
-                "spanien"
+            "spain": [
+                "spain"
             ]
         },
         {
-            "storbritannien": [
-                "storbritannien",
+            "great britain": [
+                "great britain",
                 "uk",
-                "england"
+                "england",
+                "gb"
             ]
         },
         {
-            "sverige": [
+            "sweden": [
+                "sweden",
                 "sverige"
             ]
         },
         {
-            "tjeckien": [
-                "tjeckien"
+            "czech republic": [
+                "czech republic"
             ]
         },
         {
-            "tyskland": [
-                "tyskland"
+            "germany": [
+                "germany"
             ]
         },
         {
-            "ungern": [
-                "ungern"
+            "hungary": [
+                "hungary"
             ]
         },
         {
-            "österrike": [
-                "österrike"
+            "austria": [
+                "austria"
             ]
         }
     ]
