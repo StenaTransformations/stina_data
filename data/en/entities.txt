@@ -23,10 +23,10 @@ destinations, the reef, reef
 destinations, tropical islands
 documents, passport, id, national id, national id card, id card, international id card, driver's licence,
 driver's license, driving licence, driving license, drivers license
-ferry names, stena danica, danica, denmark boat, denmark ferry
-ferry names, stena germanica, germanica, tysklandsfärjan, tysklandsbåten, ferry to germany
-ferry names, stena jutlandica, jutlandica, juttan, danmarksbåten, danmarksfärjan
-ferry names, stena scandinavica, scandinavica, tysklandsfärjan, tysklandsbåten, ferry to germany
+ferry names, stena danica, danica, denmark boat, denmark ferry, ferry to denmark
+ferry names, stena germanica, germanica, tysklandsfärjan, tysklandsbåten, ferry to germany, germany ferry
+ferry names, stena jutlandica, jutlandica, juttan, danmarksbåten, danmarksfärjan, denmark ferry, ferry to denmark
+ferry names, stena scandinavica, scandinavica, tysklandsfärjan, tysklandsbåten, ferry to germany, germany ferry
 ferry names, stena spirit, spirit
 ferry names, stena vision, vision
 general info, weather, windy, sunny, storm
@@ -35,7 +35,7 @@ loyalty scheme, extra, membership club, become member
 loyalty scheme, gold level
 loyalty scheme, membership points, club points, my points
 offers, christmas table, christmas dinner, xmas table, xmas dinner
-offers, new year cruise, new year ferry
+offers, new year cruise, new year ferry, new year boat
 offers, party boat, party cruise, party tour
 offers, last minute
 offers, student
