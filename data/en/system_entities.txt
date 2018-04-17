@@ -1,43 +1,44 @@
-currency, dkk, danska kronor, danska pengar
+currency, pound, pounds, gbp, quid
+currency, dkk, danish crowns, danish currency, danska kronor
 currency, eur, euro
-currency, nok, norska kronor
-currency, sek, kronor, kroner, svenska kronor, pix, nya mynt, gamla mynt
-currency, usd, dollar, dolares, dollars
-language, arabiska
-language, danska
-language, engelska
-language, finska
-language, holländska
-language, irländska
-language, norska
-language, polska
-language, svenska
-language, tyska
-location, belgien
-location, bulgarien
-location, cypern
-location, danmark
-location, estland
+currency, nok, norwegian crowns, norwegian currency, norska kronor
+currency, sek, swedish crowns, swedish currency, svenska kronor
+currency, usd, dollar, dollars
+language, arabic
+language, danish
+language, english
+language, finnish
+language, dutch
+language, irish
+language, norwegian
+language, polish
+language, swedish
+language, german
+location, belgium
+location, bulgaria
+location, cyprus
+location, denmark, danmark
+location, estonia
 location, finland
-location, frankrike
-location, grekland
-location, irland
-location, italien
-location, kroatien
-location, lettland
-location, litauen
+location, france
+location, greece
+location, ireland
+location, italy
+location, croatia
+location, latvia
+location, lithuania
 location, luxemburg
 location, malta
-location, nederländerna, holland
-location, polen
+location, netherlands, holland
+location, poland
 location, portugal
-location, rumänien
-location, slovakien
-location, slovenien
-location, spanien
-location, storbritannien, uk, england
-location, sverige
-location, tjeckien
-location, tyskland
-location, ungern
-location, österrike
+location, romania
+location, slovakia
+location, slovenia
+location, spain
+location, great britain, uk, england, gb
+location, sweden, sverige
+location, czech republic
+location, germany
+location, hungary
+location, austria

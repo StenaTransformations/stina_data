@@ -58,9 +58,10 @@ payment method, invoice, in voice
 payment method, cash
 payment method, card, visacard, mastercard, master card, visa-kort, visa electron, debit card, credit card
 port info, contact, address, phone number, opening hours
-port services, bagage, bagageförvaring, ställa väskorna, låsa in väskor, förvara väskor, skåp, förvaring, låsa in
-port services, hittegods, upphittat
-port services, parkering, ställa bilen, parkera
+port services, luggage, luggage storage, store luggage, lock luggage, storage 
+port services, lost and found, lost-and-found, reclaim luggage 
+port services, parking, park car
+luggage, bag, bags, baggage
 ports, belfast
 ports, cairnryan
 ports, cherbourg
@@ -69,9 +70,9 @@ ports, fishguard
 ports, fredrikshamn, fredrikshavn, fredrikshaven
 ports, gdynia
 ports, grenå, grenaa
-ports, göteborg, gbg, götet, götlaborg änna
+ports, göteborg, gbg, götet, götlaborg änna, gothenburg
 ports, göteborgMajorna, tysklandsterminalen
-ports, göteborgMasthugget, stenaterminalen, danmarksterminalen
+ports, göteborgMasthugget, stenaterminalen, danmarksterminalen, denmark terminal, stena terminal
 ports, harwich
 ports, hoek van holland, hoek
 ports, holyhead
@@ -88,21 +89,21 @@ ports, travemünde
 ports, trelleborg
 ports, varberg
 ports, ventspils
-route info, tidtabell, avgångar
-route info, åldersgräns
-ticket class, barn
-ticket class, pensionär
+route info, time table, departures
+route info, age limit
+ticket class, child, children
+ticket class, senior
 ticket class, student
-ticket class, vuxen
-ticket homeward, hemresa, returressa, hemresa, returresa
-ticket info, avbokning, avboka, avbeställning, avboka resa
-ticket info, betalning, betalningsalternativ
-ticket info, ombokning
-ticket info, pris, priser
-ticket info, reklamation
-ticket multileg, tor, turochretur, tur och retur, dit och tillbaks
-ticket outward, utresa, enkelresa, ditresa, tur
-tickets, biljett, flexi, economy, ekonomibiljett, flexibiljett, kombibiljett, premium
-tickets, presentkort
-vehicle info, bil, personbil
-vehicle info, cykel
+ticket class, adult
+ticket homeward, return journey
+ticket info, booking cancellation, cancel booking
+ticket info, payment, payment methods
+ticket info, change booking
+ticket info, price, prices
+ticket info, refund, money back
+ticket multileg, two way, twoway, two-way
+ticket outward, one way, oneway, one-way
+tickets, flexi fare, economy fare, economy, flexi, premium
+tickets, gift cards, giftcard
+vehicle info, car, automobile
+vehicle info, bike, bicycle
