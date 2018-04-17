@@ -22,43 +22,42 @@ destinations, skallerup seaside resort, seaside resort
 destinations, the reef, reef
 destinations, tropical islands
 documents, passport, id, national id, national id card, id card, international id card, driver's licence,
-driver's license, driving licence, driving license körkort
+driver's license, driving licence, driving license, drivers license
 ferry names, stena danica, danica, denmark boat, denmark ferry
-ferry names, stena germanica, germanica, tysklandsfärjan, tysklandsbåten, båten till tyskland
+ferry names, stena germanica, germanica, tysklandsfärjan, tysklandsbåten, ferry to germany
 ferry names, stena jutlandica, jutlandica, juttan, danmarksbåten, danmarksfärjan
-ferry names, stena scandinavica, scandinavica, tysklandsfärjan, tysklandsbåten, båten till tyskland
+ferry names, stena scandinavica, scandinavica, tysklandsfärjan, tysklandsbåten, ferry to germany
 ferry names, stena spirit, spirit
 ferry names, stena vision, vision
 general info, weather, windy, sunny, storm
 loyalty credential, medlemsnummer, medlemsid, extranummer, xtranummer
-loyalty scheme, extra, kundklubb, extraklubb, bli medlem, medlem, extraklubben, xtraklubb
+loyalty scheme, extra, membership club, become member
 loyalty scheme, gold level
-loyalty scheme, poäng, mina poäng, extrapoäng, xtrapoäng, extra poäng
-offers, julbord
-offers, nyårskryssning
-offers, partybåten, partybåt
-offers, prova på polen
-offers, sista minuten
+loyalty scheme, membership points, club points, my points
+offers, christmas table, christmas dinner, xmas table, xmas dinner
+offers, new year cruise, new year ferry
+offers, party boat, party cruise, party tour
+offers, last minute
 offers, student
 onboard food, bar
 onboard food, buffe
-onboard food, frukost, frukostbuffe, frukost ombord
-onboard info, öppettider
-onboard service, mat, restauranger, restauranger, a la carte, alacart, a-la-cart, meny
+onboard food, breakfast, breakfastbuffe, breakfast onboard
+onboard info, opening hours
+onboard service, food, restaurants, restaurant, a la carte, alacart, a-la-cart, menu
 onboard service, plus lounge, lounge, extralounge, extra lounge
-onboard service, sen utcheckning
+onboard service, late checkout, late check-out
 onboard service, spa
-onboard service, spelmaskin, spelmaskiner, spelmaskinerna, enarmade banditer
-onboard service, växla, exchange, växla pengar, växla till
-onboard service, wifi, trådlöst nätverk, internet ombord, wi-fi, wifi ombord
-onboard services, bordershop, taxfree, bordershop ombord, shopping ombord, shopping, border shop, shop, tax free, boarder shopping, boardershop
-online services, lågpriskalender
-online services, mina sidor, logga in, mina bokningar
-payment method, check
-payment method, faktura
-payment method, kontant, cash, kontanter
-payment method, kort, visakort, mastercard, master card, visa-kort, visa electron
-port info, kontakt, adress, telefonnummer, kontakta oss, öppettider
+onboard service, slot machine, slot machines, one-armed bandits
+onboard service, exchange, exchange currency
+onboard service, wifi, internet onboard, wi-fi, wifi onboard
+onboard services, bordershop, taxfree, bordershop onboard, shopping onboard, shopping, border shop, shop, tax free
+online services, low fare calendar
+online services, my login, my account, my bookings
+payment method, cheque
+payment method, invoice, in voice
+payment method, cash
+payment method, card, visacard, mastercard, master card, visa-kort, visa electron, debit card, credit card
+port info, contact, address, phone number, opening hours
 port services, bagage, bagageförvaring, ställa väskorna, låsa in väskor, förvara väskor, skåp, förvaring, låsa in
 port services, hittegods, upphittat
 port services, parkering, ställa bilen, parkera
